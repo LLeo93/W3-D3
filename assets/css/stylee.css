@@ -1,0 +1,68 @@
+body {
+  text-align: center;
+  height: 80%vh;
+  width: 100%;
+}
+#primodiv {
+  height: 50px;
+  background-color: green;
+}
+#uluno {
+  background-color: darkgreen;
+  margin-top: 0;
+  display: block;
+  text-align: start;
+}
+#listaheader {
+  display: inline-block;
+  margin-bottom: 0.2em;
+  margin-left: 1.8em;
+  margin-top: 0;
+}
+main {
+  width: 500px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #0c1c6d;
+  padding: 20px;
+}
+#submitButton {
+  margin-left: 1em;
+}
+
+.contact-card {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  background-color: #00f4f4;
+  padding-bottom: 15px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+form {
+  display: inline;
+}
+
+form div {
+  text-align: center;
+}
+form label {
+  display: inline-block;
+  width: 6em;
+}
+
+form button {
+  margin-top: 2em;
+  font-size: 1.1em;
+}
+form input {
+  width: 15em;
+  padding: 0.3em;
+}
+footer {
+  text-align: center;
+}
